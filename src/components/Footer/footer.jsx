@@ -30,7 +30,7 @@ function Footer() {
         <div className="foot-right">
           <h2>Get in Touch</h2>
           <section>
-            <p>+91-09987766554</p>
+            <p>+91-wrong</p>
             <p>madhanofficl@gmail.com</p>
           </section>
         </div>
