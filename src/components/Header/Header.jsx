@@ -1,5 +1,5 @@
 import "./Header.css";
-import headerImage from './assets/header_img.png';
+import headerImage from 'src/assets/header_img.png';
 
 function Header() {
   return (
