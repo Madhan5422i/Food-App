@@ -31,7 +31,7 @@ function Footer() {
           <h2>Get in Touch</h2>
           <section>
             <p>+91-9876543210</p>
-            <p>saalasankar@gmail.com</p>
+            <p>madhanofficl@gmail.com</p>
           </section>
         </div>
       </footer>
