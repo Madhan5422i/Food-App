@@ -8,7 +8,7 @@
 
 
 .header-elements{
-    background-image: url('src/assets/header_img.png');
+    background-image: url('./header_img.png');
     background-repeat: no-repeat;
     height: 70vh;
     width: 80vw;
