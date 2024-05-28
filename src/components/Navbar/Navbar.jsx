@@ -11,8 +11,8 @@ function Navbar() {
       <header className="navbar">
         <Link to="/"><img src={assets.logo} alt="logo" /></Link>
         <ul className="list-items">
-          <Link to="/"><a onClick={()=>setMenu("Home")} href="#home"><li className={menu==="Home"?"active":""}>Home</li></a></Link>
-          <Link to="#Explore"><a onClick={()=>setMenu("about")} href="#home"><li className={menu==="about"?"active":""}>About</li></a></Link>
+          <a onClick={()=>setMenu("Home")} href="#home"><li className={menu==="Home"?"active":""}>Home</li></a>
+          <a onClick={()=>setMenu("about")} href="#home"><li className={menu==="about"?"active":""}>About</li></a>
           <a onClick={()=>setMenu("Contact")} href="#home"><li className={menu==="Contact"?"active":""}>Contact</li></a>
           <a onClick={()=>setMenu("products")} href="#home"><li className={menu==="products"?"active":""}>Products</li></a>
         </ul> 

@@ -31,3 +31,17 @@ function ExploreMenu({category,setCategory}) {
 }
 
 export default ExploreMenu;
+
+/*
+import { useEffect, useState } from "react";
+  const [data, setData] = useState();
+  const BASE_URL = "http://localhost:8000";
+  useEffect(() => {
+    const fetchData = async () => {
+      const response = await fetch("http://localhost:8000/api/explore_menu/");
+      const jsonData = await response.json();
+      setData(jsonData);
+    };
+    fetchData();
+  }, []);
+  console.log(data);*/
