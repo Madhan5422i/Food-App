@@ -1,3 +1,3 @@
 # Food-App
 
-+ -[Feel free to check out !](https://madhan.xyz)
++ [Feel free to check out !](https://food-app.madhan.xyz)
